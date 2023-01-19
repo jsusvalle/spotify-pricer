@@ -21,7 +21,7 @@
     background: rgb(56, 153, 117, 0.3);
 }
 .image::after{
-    content: url(../../../assets/images/price-tag.png);
+    content: url(/assets/images/price-tag.png);
     position: absolute;
     top: 90%;
     left: 20px;
